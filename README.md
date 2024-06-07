@@ -1,5 +1,5 @@
 ![Cover image](./cover.png)
 
-### Welcome
+### Rapidfire Studios
 
-Rapidfire Studios is a full service digital agency providing design, branding, development, and support services.  We leverage a modern web technical stack to accommodate diverse client needs and provide stable solutions in a modern digital business age.
+We are a full service digital agency providing design, branding, development, and support services.  We leverage a modern web technical stack to accommodate diverse client needs and provide stable solutions in a modern digital business age.
